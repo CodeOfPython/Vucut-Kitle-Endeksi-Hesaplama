@@ -1,0 +1,1 @@
+# Vucut-Kitle-Endeksi-Hesaplama
